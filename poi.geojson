@@ -1,0 +1,15 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [52.493184, 13.4303593,16]
+      },
+      "properties": {
+        "URL": "http://boulderklub.de/",
+        "Name": "Boulderklub",
+        "Type": "Bouldering"
+        }
+      }
+    ]
+}
