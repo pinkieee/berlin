@@ -3,7 +3,7 @@
     { "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.493184, 13.4303593,16]
+        "coordinates": [13.428812, 52.495320]
       },
       "properties": {
         "URL": "http://boulderklub.de/",
